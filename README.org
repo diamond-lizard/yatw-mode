@@ -1,6 +1,6 @@
 * yatw-mode - Yet Another Task Warrior Mode
 
-This mode does very basic syntax highlighting of buffers created by the taskwarrior edit command.
+This Emacs mode does very basic syntax highlighting of buffers created by the taskwarrior edit command.
 
 ---
 
